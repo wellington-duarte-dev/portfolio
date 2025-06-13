@@ -57,7 +57,7 @@ ShipLink/
 
 **GitHub**: [github.com/wellington-duarte-dev](https://github.com/wellington-duarte-dev)
 
-wellington@shipçlink.com.br; welduarte@icloud.com
+Email: welduarte@icloud.com | wellington@shiplink.com.br
 
 ---
 
