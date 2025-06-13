@@ -7,7 +7,7 @@ Com mais de 20 anos de experiência em logística, tecnologia e sistemas SaaS.
 
 ## 🚀 Sobre Mim
 
-Atuo desde 2001 no setor logístico, com passagem pela Total Express, fundação da DLog e, mais recentemente, criação da MetaLog Express e da ShipLink Technology.
+Atuo desde 2001 no setor logístico, com passagem pela Total Express, fundação da DLog e, mais recentemente, criação da ShipLink Technology.
 
 Minha especialidade está em construir **plataformas SaaS escaláveis**, com foco em:
 
@@ -54,7 +54,10 @@ ShipLink/
 ## 📢 Contato
 
 **LinkedIn**: [linkedin.com/in/wellington-duarte-dev](https://linkedin.com/in/wellington-duarte-dev)
+
 **GitHub**: [github.com/wellington-duarte-dev](https://github.com/wellington-duarte-dev)
+
+wellington@shipçlink.com.br; welduarte@icloud.com
 
 ---
 
