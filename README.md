@@ -1,72 +1,61 @@
-Portfólio Técnico – Wellington Duarte
-Desenvolvedor PHP Sênior & Arquiteto de Sistemas
+# Wellington Duarte – Portfólio Técnico
 
-🚀 ShipLink (em desenvolvimento)
-Plataforma SaaS modular para gestão logística multiempresa, desenhada com arquitetura de microsserviços e API-first. Construi do zero componentes reutilizáveis, com:
+🌟 **Desenvolvedor backend, arquiteto de sistemas e fundador da plataforma ShipLink**.
+Com mais de 20 anos de experiência em logística, tecnologia e sistemas SaaS.
 
-CRUD dinâmico (via core‑crud)
+---
 
-Microserviço de autenticação (core‑user)
+## 🚀 Sobre Mim
 
-Controle por plano e permissões granulares (core‑authz)
+Atuo desde 2001 no setor logístico, com passagem pela Total Express, fundação da DLog e, mais recentemente, criação da MetaLog Express e da ShipLink Technology.
 
-Bases isoladas por domínio (Core, TMS, WMS, CRM, ERP …)
+Minha especialidade está em construir **plataformas SaaS escaláveis**, com foco em:
 
-Integração padrão via CORES APIs REST (versão, token e JSON uniforme)
+* Microsserviços
+* Banco de dados organizados por camada (HOT / WARM / ICE)
+* APIs REST com autenticação JWT
+* Integrações com transportadoras, ERPs, marketplaces e ferramentas de vendas
 
-💡 Tecnologias usadas: PHP 8+ (PSR‑4), Docker, Composer, SQL, JWT, padrão SaaS escalável.
+---
 
-🏗️ DLog Soluções Logísticas (2015–2024)
-Responsável por desenvolvimento completo da plataforma interna de uma transportadora, com:
+## 🧠 Projetos em Destaque
 
-Upload e leitura de XMLs (NF-e, CTe)
+### 🔹 ShipLink – Plataforma SaaS para transportadoras
 
-Gestão de frete, roteirização e balanças de cubagem
+> Estrutura modular e multiempresa com foco em rastreamento, controle operacional e automações.
 
-Emissão de CTe (manual e automática)
+* 🧱 Arquitetura baseada em microsserviços
+* 💼 Planos por assinatura com escalabilidade horizontal
+* 🔐 APIs com autenticação e controle granular de acesso
 
-Sistema interno de tickets com transportadoras e embarcadores
+Repositórios privados no momento. A estrutura segue:
 
-Dashboards com indicadores SLA e rastreamento
+```
+ShipLink/
+├── Core/              ← Microsserviços reutilizáveis (ex: core-crud, core-authz)
+├── TMS/               ← Sistema de transporte (tickets, tracking, roteirização)
+├── CRM/               ← Pipeline de vendas, clientes e leads
+├── WMS/               ← Gestão de armazéns e estoques
+```
 
-Módulo de faturamento com geração de boletos
+---
 
-APIs REST seguras para parceiros
+## 🛠️ Stack Principal
 
-Integrações com Bling, Tiny, Intelipost, DataFrete, Frenet, Total Express, J&T, Loggi …
+* PHP (com PDO e arquitetura PSR-4)
+* MySQL, PostgreSQL, Oracle, SQLite (multi-driver)
+* Docker e Docker Compose
+* JavaScript modular (sem frameworks prontos)
+* Git + GitHub Actions (CI/CD futuro)
+* Azure (prod) e WSL (dev)
 
-🛠️ Stack Técnica
-Backend: PHP (PDO), JSON, microsserviços
+---
 
-Banco de dados: MySQL (arquitetura relaciona)
+## 📢 Contato
 
-Frontend: JavaScript, jQuery, AJAX, HTML5, CSS3
+**LinkedIn**: [linkedin.com/in/wellington-duarte-dev](https://linkedin.com/in/wellington-duarte-dev)
+**GitHub**: [github.com/wellington-duarte-dev](https://github.com/wellington-duarte-dev)
 
-DevOps: Docker, Composer, Git/GitHub, ambiente CI/CD
+---
 
-Autenticação: JWT / Bearer token
-
-Escalabilidade: Microsserviços distribuídos, subdomínios por produto
-
-Padrões: PSR‑4, API versioning v1/v2, resposta JSON padronizada
-
-🌟 Destaques da ShipLink
-Arquitetura modular: cada domínio (Core, TMS, CRM…) com microserviços independentes
-
-Padrão profissional: toque Silicon Valley com documentação, versionamento e deploy isolados
-
-Reutilização de código: amplamente aproveitável entre projetos
-
-Governança de API: domínio api.shiplink.com.br, rotas versionadas, autenticação rigorosa
-
-Escalabilidade futura: pronto para load balancers, novos drivers (PostgreSQL, Oracle…) e microserviços adicionais
-
-📞 Contato
-LinkedIn: [wellington-duarte-dev]
-
-Email: welduarte@icloud.com | wellington@shiplink.com.br
-
-Disponível para trabalho remoto, híbrido ou consultoria
-
-🤝 Vamos conversar?
-Se quiser conhecer mais detalhes sobre a ShipLink ou meu trabalho, é só chamar!
+🛍️ *Este repositório tem como objetivo documentar minha jornada como desenvolvedor e consolidar as decisões técnicas da ShipLink, rumo a um padrão de qualidade digno do Vale do Silício.*
