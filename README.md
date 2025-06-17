@@ -39,14 +39,14 @@ Minha especialidade é desenvolver plataformas escaláveis e modulares, com foco
 ### 🛰 ShipLink – Plataforma SaaS para Transportadoras  
 Plataforma moderna de gestão logística, desenvolvida com base em 9 anos de operação prática no setor. Multiempresa, modular, com APIs, tracking por eventos, controle de SLA e automação operacional.
 
-🔗 Saiba mais em: [ShipLink](https://github.com/shiplink-tech/overview)
+🔗 Saiba mais em: [ShipLink Technology](https://github.com/shiplink-tech/overview)
 
 ---
 
 ### 📦 DLog Serviços Logísticos Ltda 
 Transportadora especializada em e-commerce, que operou por quase uma década com sistema próprio, rastreamento inteligente, leilão de fretes, CTe automático e atendimento integrado com SAC e destinatários.
 
-🔗 Saiba mais em: [DLog](https://github.com/dlog-servicos-logisticos/overview)
+🔗 Saiba mais em: [DLog Serviços Logísticos](https://github.com/dlog-servicos-logisticos/overview)
 
 ---
 
