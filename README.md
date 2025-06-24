@@ -61,12 +61,6 @@ O desafio consistiu em desenvolver um CRUD completo com:
 ✅ [Repositório do desafio](https://github.com/well-challenges/desafio_tecnico_consolidai_fork)  
 ✅ [Pull Request realizado](https://github.com/LucasDuarteLD/desafio_tecnico_consolidai/pull/1)
 
-Principais diferenciais:
-- Padrão de código limpo e coeso
-- Estrutura modular para fácil manutenção
-- README.md completo com instruções de uso
-- Interface amigável (React + Bootstrap)
-
 ---
 
 ## 🛠️ Stack Principal
