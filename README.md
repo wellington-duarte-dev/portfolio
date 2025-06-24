@@ -50,6 +50,25 @@ Transportadora especializada em e-commerce, que operou por quase uma década com
 
 ---
 
+## 🛠 Desafio Técnico ConsolidaAi
+
+Projeto realizado como parte de processo seletivo da ConsolidaAi.  
+O desafio consistiu em desenvolver um CRUD completo com:
+- **Node.js + PostgreSQL (API)**
+- **React SPA (CRUD de produtos)**
+- **PHP + MySQL (CRUD de clientes)**
+
+✅ [Repositório do desafio](https://github.com/well-challenges/desafio_tecnico_consolidai_fork)  
+✅ [Pull Request realizado](https://github.com/LucasDuarteLD/desafio_tecnico_consolidai/pull/1)
+
+Principais diferenciais:
+- Padrão de código limpo e coeso
+- Estrutura modular para fácil manutenção
+- README.md completo com instruções de uso
+- Interface amigável (React + Bootstrap)
+
+---
+
 ## 🛠️ Stack Principal
 
 * PHP (com PDO e arquitetura PSR-4)
